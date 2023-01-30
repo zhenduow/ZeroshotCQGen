@@ -6,4 +6,4 @@ Source for the paper "Zero-shot Clarifying Question Generation for Conversationa
 * Download neurologic decoding package from https://github.com/GXimingLu/neurologic_decoding
 
 ## How to use
-Follow the `zeroshotcqgen.ipynb.`
+Follow the `zeroshotcqgen.ipynb`
