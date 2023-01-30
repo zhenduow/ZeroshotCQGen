@@ -6,4 +6,4 @@ Source for the paper "Zero-shot Clarifying Question Generation for Conversationa
 1. transformers==3.4.0
 
 ## How to use
-Follow the zeroshotcqgen.ipynb.
+Follow the `zeroshotcqgen.ipynb.`
