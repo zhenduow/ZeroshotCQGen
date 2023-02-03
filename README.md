@@ -1,5 +1,5 @@
 # ZeroshotCQGen
-Source for the paper ["Zero-shot Clarifying Question Generation for Conversational Search"](https://arxiv.org/abs/2301.12660)
+Source for the paper [Zero-shot Clarifying Question Generation for Conversational Search](https://arxiv.org/abs/2301.12660)
 
 ## Package requirements (recommended versions).
 * `pip install -r requirements.txt`
